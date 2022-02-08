@@ -1,6 +1,6 @@
 # Bayesian Sensor-Modelling
 
-### In this repo there are some priliminary testing I did on the calibration of Ion Selective Electrodes. There are two notebooks. One is where I explore a supervised approach to calibration and the other is where I discuss an unsupervised approach. <br>
+### In this repo, there are some priliminary testing I did on the calibration of Ion Selective Electrodes. There are two notebooks. One is where I explore a supervised approach to calibration and the other is where I discuss an unsupervised approach. <br>
 
 ### Supervised Calibration <br>
 In this scenario, we have both the sensor responses and the ionc activities that caused the responses. The problem then becomes a classic supervised parameter estimation problem. <br>
